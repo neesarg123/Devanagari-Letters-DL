@@ -10,4 +10,5 @@ One conflict that arises when developing/training a model for this task is the l
 Performing basic transformations (rotations, resclaing, cropping, etc.) can help to augment the data but there is a bottleneck to this approach. 
 One other solution I have thought of and developed (with some success) is a Deep Generative Adversarial Network that "creates" new images of the letters. 
 
-#### Current Training Accuracy (updated 08/22): 97.66% 
+#### Current Testing Accuracy (updated 08/22): 97.61%
+#### Current Testing F1 Score (updated 08/22): 97.64%
